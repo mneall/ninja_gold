@@ -1,0 +1,30 @@
+body {
+	width: 1000px;
+	background-color: coral;
+	margin: 0 auto;
+}
+
+div {
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+
+}
+
+#activities {
+	width: 1000px;
+	height: 250px;
+	overflow-y: scroll;
+	margin-top: 10px;
+	border: 1px solid #DDDDDD;
+	border-radius: 4px 0 4px 0;
+	padding: 10px 7px 5px;
+}
+
+.green {
+	color: green;
+}
+
+.red {
+	color: red;
+}
